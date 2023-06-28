@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Selvaraj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rain2003&label=Profile%20views&color=0e75b6&style=flat" alt="rain2003" /> </p>
 
 - 🔭 I’m currently working on **React Projects**
 
