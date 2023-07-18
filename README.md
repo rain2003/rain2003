@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain2003&show_icons=true&locale=en&layout=compact" alt="rain2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rain2003&show_icons=true&locale=en" alt="rain2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rain2003&" alt="rain2003" /></p>
