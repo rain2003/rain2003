@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 
-- 🔭 I’m currently working on **React Projects**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 📫 How to reach me **vgssam2003@gmail.com**
 
